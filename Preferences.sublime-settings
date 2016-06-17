@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"PHP",
+		"Vintage"
+	],
+	"update_check": false,
+	"word_wrap": true
+}

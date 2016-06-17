@@ -1,0 +1,33 @@
+<snippet>
+<content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Document</title>
+<style type="text/css">
+	${2}
+</style>
+<script src="avalon.js"></script>
+<script>
+	avalon.ready(function(){
+		avalon.define({
+			\$id:"main"
+		})
+		avalon.scan()
+	})
+	
+</script>
+</head>
+<body ms-controller="main">
+	<div id="div1">
+		${1}
+	</div>
+</body>
+</html>
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>avalon</tabTrigger>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.python</scope> -->
+</snippet>

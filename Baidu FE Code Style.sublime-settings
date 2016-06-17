@@ -1,0 +1,6 @@
+{
+  "env": {
+    "fecs_bin": "C:/Program Files/Sublime Text 3/Packages/Baidu-FE-Code-Style/bin/fecs",
+    "node_bin": "C:/Program Files/nodejs/node_modules/npm/bin/node" 
+  }
+}
